@@ -1,5 +1,6 @@
 {
-  "name": "inspireme",
+  "name": "builders-forge",
   "description": "The Builder's Forge — a creative thinking sparring partner that challenges assumptions, expands thinking, and produces actionable outputs for work challenges.",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "author": { "name": "GrillerGeek" }
 }
